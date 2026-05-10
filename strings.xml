@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MedTune</string>
+    <string name="library">Koleksi</string>
+    <string name="artists">Artis</string>
+    <string name="albums">Album</string>
+    <string name="settings">Pengaturan</string>
+    <string name="play">Putar</string>
+    <string name="pause">Jeda</string>
+    <string name="next">Lanjut</string>
+    <string name="prev">Sebelumnya</string>
+    <string name="exit_title">Keluar Aplikasi</string>
+    <string name="exit_text">Apakah Anda yakin ingin keluar?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="theme">Tema</string>
+    <string name="language">Bahasa</string>
+    <string name="back">Kembali</string>
+    <string name="search_album">Cari Album</string>
+    <string name="search_artist">Cari Artis</string>
+    <string name="shortcut_search_short">Cari</string>
+    <string name="shortcut_search_long">Cari Musik</string>
+    <string name="shortcut_shuffle_short">Acak Semua</string>
+    <string name="shortcut_shuffle_long">Acak Semua Lagu</string>
+    <string name="shortcut_resume_short">Lanjutkan</string>
+    <string name="shortcut_resume_long">Lanjutkan Pemutaran</string>
+</resources>
