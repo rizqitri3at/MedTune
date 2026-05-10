@@ -139,3 +139,61 @@ Developer
 Rizqi Tri Antomi
 
 Built with passion for music, Metro UI, and modern Android experiences.
+
+
+## Screenshots
+
+### Menu
+![Menu](screenshots/MENU.jpeg)
+
+### Artist
+![Artist](screenshots/ARTIST.jpeg)
+
+### Play Now
+![Play Now](screenshots/PLAYNOW.jpeg)
+
+## Album
+
+### Album 1
+![Album 1](screenshots/ALBUM1.jpeg)
+
+### Album 2
+![Album 2](screenshots/ALBUM2.jpeg)
+
+### Album 3
+![Album 3](screenshots/ALBUM3.jpeg)
+
+### Album 4
+![Album 4](screenshots/ALBUM4.jpeg)
+
+## Settings
+
+### Settings 1
+![Settings 1](screenshots/SETTINGS(1).jpeg)
+
+### Settings 2
+![Settings 2](screenshots/SETTINGS(2).jpeg)
+
+### Settings 3
+![Settings 3](screenshots/SETTINGS(3).jpeg)
+
+### Settings 4
+![Settings 4](screenshots/SETTINGS(4).jpeg)
+
+### Settings 5
+![Settings 5](screenshots/SETTINGS(5).jpeg)
+
+### Settings 6
+![Settings 6](screenshots/SETTINGS(6).jpeg)
+
+### Settings 7
+![Settings 7](screenshots/SETTINGS(7).jpeg)
+
+### Settings 8
+![Settings 8](screenshots/SETTINGS(8).jpeg)
+
+### Settings 9
+![Settings 9](screenshots/SETTINGS(9).jpeg)
+
+### Settings 10
+![Settings 10](screenshots/SETTINGS(10).jpeg)
